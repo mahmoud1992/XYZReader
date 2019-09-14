@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\.android\build-cache\a54a40f3543ec47cd4cdc055aacc951861ff2f6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3887e2a6307a5a672462776bcfe2eb765b05aa82">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_385fb12cded81977a0ecf43b603d7a4a7006a0cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="553c8e728f3514bb01a415930527c4c96b5634b4">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_139b53f22f778165b5f0ac34433f0285e68da3f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_9f746008beeb9a39487a991cc215a08553232b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6bd5c86afd02241222cc2fa600ff59c5d91408c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\M@7m0ud\Desktop\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_49c2176f57b2b649d3560b1d52219ee540cff7f4\classes.dex" />
+    </item>
+
+</items>

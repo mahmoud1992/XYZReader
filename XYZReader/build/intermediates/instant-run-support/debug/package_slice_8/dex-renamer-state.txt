@@ -1,0 +1,4 @@
+#Sat Sep 14 09:37:31 IDT 2019
+base.0=C\:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

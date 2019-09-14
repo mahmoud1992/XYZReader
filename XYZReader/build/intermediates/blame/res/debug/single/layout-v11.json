@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\M@7m0ud\\.android\\build-cache\\589db44012f13763f68e33e46becbc88cd77b5e8\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\M@7m0ud\\.android\\build-cache\\589db44012f13763f68e33e46becbc88cd77b5e8\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\M@7m0ud\\.android\\build-cache\\589db44012f13763f68e33e46becbc88cd77b5e8\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\M@7m0ud\\.android\\build-cache\\589db44012f13763f68e33e46becbc88cd77b5e8\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\M@7m0ud\\.android\\build-cache\\589db44012f13763f68e33e46becbc88cd77b5e8\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\M@7m0ud\\Desktop\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\M@7m0ud\\.android\\build-cache\\589db44012f13763f68e33e46becbc88cd77b5e8\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]
